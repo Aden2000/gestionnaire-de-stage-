@@ -97,5 +97,3 @@ Les contributions sont les bienvenues !
 
 
 ---
-
-👉 Aden, je peux aussi ajouter un **schéma visuel** (diagramme des relations entre modèles) pour rendre ton README encore plus attractif. Veux-tu que je génère un diagramme UML simplifié des modèles Django de ton projet ?
